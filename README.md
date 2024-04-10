@@ -25,6 +25,12 @@ e após
 ````
 npm install nodemon
 ````
+````
+npm install mongodb
+````
+````
+npm install mongoose
+````
 
 
 
