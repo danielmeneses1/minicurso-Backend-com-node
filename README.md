@@ -19,8 +19,14 @@ Atenção para o ponto no final do comando
 
 Após isso, no mesmo terminal execute o seguinte comando
 ````
-npm install
+npm install express
 ````
+e após 
+````
+npm install nodemon
+````
+
+
 
 a partir disso, voce pode colocar sua aplicação para rodar ultilizando 
 
